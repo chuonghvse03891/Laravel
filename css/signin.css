@@ -1,0 +1,13 @@
+
+article.signInContent {
+    height: 400px;
+    width: 300px;
+    background-color: antiquewhite;
+    float: left;
+    margin-left: 25%;
+    margin-top: 15%;
+}
+
+.picture, img {
+    height: 400px;
+}
